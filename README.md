@@ -20,7 +20,7 @@ A curated set of papers along with code.
 ### [Polarization in 3D Computer Vision]()
 
 * __Depth from a polarisation + RGB stereo pair__, (2019), _Zhu, Dizhong and Smith, William AP_. [[pdf]](https://arxiv.org/abs/1903.12061) [[code]](https://github.com/AmosZhu/CVPR2019) 
-* __Deep Shape from Polarization__, (2019), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm) * __Simultaneous acquisition of polarimetric SVBRDF and normals.__, (2018)
+* __Deep Shape from Polarization__, (2019), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm) 
 * __Depth from stereo polarization in specular scenes for urban robotics__, (2017)
 * __Polarisation photometric stereo__, (2017)
 * __Shape estimation using polarization and shading from two views__, (2007)
@@ -49,6 +49,7 @@ A curated set of papers along with code.
 ### [Polarization in Other Tasks]()
 
 * __Deep Polarization Cues for Transparent Object Segmentation__, (2020)
+* __Simultaneous acquisition of polarimetric SVBRDF and normals.__, (2018)
 * __Polarization imaging reflectometry in the wild__, (2017)
 * __Image dehazing using polarization effects of objects and airlight__, (2014)
 * __Enhanced material classification using turbulence-degraded polarimetric imagery__, (2010)
