@@ -20,7 +20,7 @@ A curated set of papers along with code.
 ### [Polarization in 3D Computer Vision]()
 
 * __Depth from a polarisation + RGB stereo pair__, (2019), _Zhu, Dizhong and Smith, William AP_. [[pdf]](https://arxiv.org/abs/1903.12061) [[code]](https://github.com/AmosZhu/CVPR2019) 
-* __Polarimetric Relative Pose Estimation__, (2019), _Cui et al.
+* __Polarimetric Relative Pose Estimation__, (2019), _Cui et al._
 * __Deep Shape from Polarization__, (2019), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm) 
 * __Depth from stereo polarization in specular scenes for urban robotics__, (2017)
 * __Polarisation photometric stereo__, (2017)
