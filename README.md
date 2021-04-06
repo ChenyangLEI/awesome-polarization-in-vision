@@ -18,10 +18,11 @@ A curated set of papers along with code.
 
 
 ### [Polarization in 3D Computer Vision]()
-
+* __Polarimetric Monocular Dense Mapping Using Relative Deep Depth Prior__, (2021), RAL. 
+* __P2D: a self-supervised method for depth estimation from polarimetry__, (2020), [paper](https://arxiv.org/pdf/2007.07567.pdf), **dataset**
+* __Deep Shape from Polarization__, (2020), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm), **dataset**
 * __Depth from a polarisation + RGB stereo pair__, (2019), _Zhu, Dizhong and Smith, William AP_. [[pdf]](https://arxiv.org/abs/1903.12061) [[code]](https://github.com/AmosZhu/CVPR2019) 
 * __Polarimetric Relative Pose Estimation__, (2019), _Cui et al._
-* __Deep Shape from Polarization__, (2019), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm) 
 * __Depth from stereo polarization in specular scenes for urban robotics__, (2017)
 * __Polarisation photometric stereo__, (2017)
 * __Polarimetric three-view geometry__, (2018)
@@ -43,17 +44,25 @@ A curated set of papers along with code.
 
 ### [Polarization in Image Enhancement]()
 
-* __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020), _Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, Wenxiu Sun, and Qifeng Chen_. [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment)
+* __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020), _Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, Wenxiu Sun, and Qifeng Chen_. [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment), CVPR. **dataset**
 * __Reflection separation using a pair of unpolarized and polarized images__, (2019)
+* __Image dehazing using polarization effects of objects and airlight__, (2014)
 * __A physically-based approach to reflection separation: from physical modeling to constrained optimization__, (2013)
 * __Clear underwater vision__, (2004)
 
+### [Polarization in Image Segmentation and Detection]()
+* __Deep Polarization Cues for Transparent Object Segmentation__, (2020), **dataset**
+* __A New Multimodal RGB and Polarimetric Image Dataset for Road Scenes Analysis__, (2020), [dataset](http://pagesperso.litislab.fr/rblin/databases/)
+* __Outdoor Scenes Pixel-wise Semantic Segmentation using Polarimetry and Fully Convolutional Network__, (2019), **datast**
+* __Road scenes analysis in adverse weather conditions bypolarization-encoded images and adapted deep learning__, (2019)
+* __Adapted learning for polarization-based car detection__, (2019)
+* 
+
+
 ### [Polarization in Other Tasks]()
 
-* __Deep Polarization Cues for Transparent Object Segmentation__, (2020)
 * __Simultaneous acquisition of polarimetric SVBRDF and normals.__, (2018)
 * __Polarization imaging reflectometry in the wild__, (2017)
-* __Image dehazing using polarization effects of objects and airlight__, (2014)
 * __Enhanced material classification using turbulence-degraded polarimetric imagery__, (2010)
 * __Polarization phase-based method for material classification in computer vision__, (1998)
 
