@@ -22,6 +22,7 @@ A curated set of papers along with code.
 * __P2D: a self-supervised method for depth estimation from polarimetry__, (2020), [paper](https://arxiv.org/pdf/2007.07567.pdf), **dataset**
 * __Deep Shape from Polarization__, (2020), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm), **dataset**
 * __Depth from a polarisation + RGB stereo pair__, (2019), _Zhu, Dizhong and Smith, William AP_. [[pdf]](https://arxiv.org/abs/1903.12061) [[code]](https://github.com/AmosZhu/CVPR2019) 
+* __Mirror Surface Reconstruction Using Polarization Field__, (2019), ICIP
 * __Polarimetric Relative Pose Estimation__, (2019), _Cui et al._
 * __Depth from stereo polarization in specular scenes for urban robotics__, (2017)
 * __Polarisation photometric stereo__, (2017)
@@ -52,6 +53,7 @@ A curated set of papers along with code.
 
 ### [Polarization in Image Segmentation and Detection]()
 * __Deep Polarization Cues for Transparent Object Segmentation__, (2020), **dataset**
+* __HDR Reconstruction Based on the Polarization Camera__, (2020)
 * __A New Multimodal RGB and Polarimetric Image Dataset for Road Scenes Analysis__, (2020), [dataset](http://pagesperso.litislab.fr/rblin/databases/)
 * __Outdoor Scenes Pixel-wise Semantic Segmentation using Polarimetry and Fully Convolutional Network__, (2019), **datast**
 * __Road scenes analysis in adverse weather conditions bypolarization-encoded images and adapted deep learning__, (2019)
@@ -61,6 +63,9 @@ A curated set of papers along with code.
 
 ### [Polarization in Other Tasks]()
 
+* __Polarized Optical-Flow Gyroscope__, (2020), ECCV
+* __Monochrome and color polarization demosaicking using edge-aware residual interpolation__, (2020)
+* __Survey of demosaicking methods for polarization filter array images__, (2018)
 * __Simultaneous acquisition of polarimetric SVBRDF and normals.__, (2018)
 * __Polarization imaging reflectometry in the wild__, (2017)
 * __Enhanced material classification using turbulence-degraded polarimetric imagery__, (2010)
