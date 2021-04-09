@@ -65,6 +65,7 @@ A curated set of papers along with code.
 
 * __Polarized Optical-Flow Gyroscope__, (2020), ECCV
 * __Monochrome and color polarization demosaicking using edge-aware residual interpolation__, (2020)
+* __Face Anti-Spoofing by Learning Polarization Cues in a Real-World Scenario__, (2020)
 * __Survey of demosaicking methods for polarization filter array images__, (2018)
 * __Simultaneous acquisition of polarimetric SVBRDF and normals.__, (2018)
 * __Polarization imaging reflectometry in the wild__, (2017)
