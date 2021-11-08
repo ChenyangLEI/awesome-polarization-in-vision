@@ -18,6 +18,10 @@ A curated set of papers along with code.
 
 
 ### [Polarization in 3D Computer Vision]()
+* __Polarimetric Helmholtz Stereopsis__, (2021), ICCV. 
+* __Polarimetric Normal Stereo__, (2021), CVPR. 
+* __Shape from Sky: Polarimetric Normal Recovery Under The Sky__, (2021), CVPR. 
+* __Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition__, (2021), CVPR. 
 * __Polarimetric Monocular Dense Mapping Using Relative Deep Depth Prior__, (2021), RAL. 
 * __P2D: a self-supervised method for depth estimation from polarimetry__, (2020), [paper](https://arxiv.org/pdf/2007.07567.pdf), **dataset**
 * __Deep Shape from Polarization__, (2020), _Yunhao Ba, Alex Ross Gilbert, Franklin Wang, Jinfa Yang, Rui Chen, Yiqin Wang, Lei Yan, Boxin Shi, Achuta Kadambi_. [[pdf]](https://arxiv.org/abs/1903.10210) [[website]](https://visual.ee.ucla.edu/deepsfp.htm), **dataset**
