@@ -19,7 +19,7 @@ A curated set of papers along with code.
 
 ### [Polarization in 3D Computer Vision]()
 
-* __Shape from Polarization for Complex Scenes in the Wild__, (2022), [code](https://github.com/ChenyangLEI/sfp-wild), arxiv. 
+* __Shape from Polarization for Complex Scenes in the Wild__, (2022), CVPR, [code](https://github.com/ChenyangLEI/sfp-wild). 
 * __Polarimetric Helmholtz Stereopsis__, (2021), ICCV. 
 * __Polarimetric Normal Stereo__, (2021), CVPR. 
 * __Shape from Sky: Polarimetric Normal Recovery Under The Sky__, (2021), CVPR. 
