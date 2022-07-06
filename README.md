@@ -30,6 +30,7 @@ A curated set of papers along with code.
 * __Depth from a polarisation + RGB stereo pair__, (2019), _Zhu, Dizhong and Smith, William AP_. [[pdf]](https://arxiv.org/abs/1903.12061) [[code]](https://github.com/AmosZhu/CVPR2019) 
 * __Mirror Surface Reconstruction Using Polarization Field__, (2019), ICIP
 * __Polarimetric Relative Pose Estimation__, (2019), _Cui et al._
+* __Polarimetric Monocular Dense SLAM__, (2018), _Yang et al_. [[video]](https://www.bilibili.com/video/BV1QL41177Sd)
 * __Depth from stereo polarization in specular scenes for urban robotics__, (2017)
 * __Polarisation photometric stereo__, (2017)
 * __Polarimetric three-view geometry__, (2018)
