@@ -19,7 +19,11 @@ A curated set of papers along with code.
 
 ### [Polarization in 3D Computer Vision]()
 
+* __Sparse ellipsometry: portable acquisition of polarimetric SVBRDF and shape with unstructured flash photography__, (2022), SIGGRAPH, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3528223.3530075) [[code]](https://github.com/KAIST-VCLAB/SparseEllipsometry.git).
+* __Perspective Phase Angle Model for Polarimetric 3D Reconstruction__, (2022), ECCV, [[pdf]](https://arxiv.org/pdf/2207.09629v2).
 * __Shape from Polarization for Complex Scenes in the Wild__, (2022), CVPR, [code](https://github.com/ChenyangLEI/sfp-wild). 
+* __PANDORA: Polarization-Aided Neural Decomposition Of Radiance__, (2022), [[pdf]](PANDORA: Polarization-Aided Neural Decomposition Of Radiance).
+* __Transparent Shape from Single Polarization Images__, (2022), [[pdf]](https://arxiv.org/pdf/2204.06331v4).
 * __Polarimetric Helmholtz Stereopsis__, (2021), ICCV. 
 * __Polarimetric Normal Stereo__, (2021), CVPR. 
 * __Shape from Sky: Polarimetric Normal Recovery Under The Sky__, (2021), CVPR. 
@@ -31,6 +35,7 @@ A curated set of papers along with code.
 * __Mirror Surface Reconstruction Using Polarization Field__, (2019), ICIP
 * __Polarimetric Relative Pose Estimation__, (2019), _Cui et al._
 * __Polarimetric Monocular Dense SLAM__, (2018), _Yang et al_. [[video]](https://www.bilibili.com/video/BV1QL41177Sd)
+* __Shape-from-polarisation: a nonlinear least squares approach__, (2017), [[pdf]](https://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w43/Yu_Shape-From-Polarisation_A_Nonlinear_ICCV_2017_paper.pdf) [[code]](https://github.com/waps101/polarisation_optimisation).
 * __Depth from stereo polarization in specular scenes for urban robotics__, (2017)
 * __Polarisation photometric stereo__, (2017)
 * __Polarimetric three-view geometry__, (2018)
@@ -59,6 +64,10 @@ A curated set of papers along with code.
 * __Clear underwater vision__, (2004)
 
 ### [Polarization in Image Segmentation and Detection]()
+
+* __Glass Segmentation using Intensity and Spectral Polarization Cues__, (2022), CVPR, [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Mei_Glass_Segmentation_Using_Intensity_and_Spectral_Polarization_Cues_CVPR_2022_paper.pdf) [[code]](https://github.com/Mhaiyang/CVPR2022_PGSNet).
+* __Multimodal Material Segmentation__, (2022), CVPR, [[pdf]](https://vision.ist.i.kyoto-u.ac.jp/pubs/YLiang_CVPR22.pdf) [[code]](https://github.com/kyotovision-public/multimodal-material-segmentation).
+* __Deep Snapshot HDR Reconstruction Based on the Polarization Camera__, (2021), ICIP, [[pdf]](https://arxiv.org/abs/2105.05824).
 * __Deep Polarization Cues for Transparent Object Segmentation__, (2020), **dataset**
 * __HDR Reconstruction Based on the Polarization Camera__, (2020)
 * __A New Multimodal RGB and Polarimetric Image Dataset for Road Scenes Analysis__, (2020), [dataset](http://pagesperso.litislab.fr/rblin/databases/)
