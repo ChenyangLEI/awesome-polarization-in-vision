@@ -56,7 +56,9 @@ A curated set of papers along with code.
 
 
 ### [Polarization in Image Enhancement]()
-
+* __Polarization guided HDR reconstruction via pixel-wise depolarization__, (2023), TIP
+* __Polarization-aware low-light image enhancement__, (2023), AAAI
+* __Learning to dehaze with polarization__, (2021), NeurIPS
 * __Polarized Reflection Removal with Perfect Alignment in the Wild__, (2020), _Chenyang Lei, Xuhua Huang, Mengdi Zhang, Qiong Yan, Wenxiu Sun, and Qifeng Chen_. [[pdf]](https://cqf.io/papers/Polarized_Reflection_Removal_CVPR2020.pdf) [[code]](https://github.com/ChenyangLEI/CVPR2020-Polarized-Reflection-Removal-with-Perfect-Alignment), CVPR. **dataset**
 * __Reflection separation using a pair of unpolarized and polarized images__, (2019)
 * __Image dehazing using polarization effects of objects and airlight__, (2014)
