@@ -18,6 +18,8 @@ A curated set of papers along with code.
 
 
 ### [Polarization in 3D Computer Vision]()
+* __Polarization Wavefront Lidars: Learning to Recover Large-Scale Scene Information from Polarized Wavefronts__, (2024), CVPR, [[pdf]](https://chenyanglei.github.io/).
+* __Robust Depth Enhancement via Polarization Prompt Fusion Tuning__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2404.04318).
 * __High-Res Facial Appearance Capture from Polarized Smartphone Images__, (2023), CVPR, [[pdf]](https://arxiv.org/pdf/2212.01160.pdf).
 * __Sparse ellipsometry: portable acquisition of polarimetric SVBRDF and shape with unstructured flash photography__, (2022), SIGGRAPH, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3528223.3530075) [[code]](https://github.com/KAIST-VCLAB/SparseEllipsometry.git).
 * __Perspective Phase Angle Model for Polarimetric 3D Reconstruction__, (2022), ECCV, [[pdf]](https://arxiv.org/pdf/2207.09629v2).
@@ -117,7 +119,12 @@ A curated set of papers along with code.
 
 
 ## Researchers
-
+- Boxin Shi
+- Seung-Hwan Baek
+- Felix Heide
+- Actual Kadambi
+- Zhaopeng Cui
+- Chenyang Lei
 
 
 ## Contributions
