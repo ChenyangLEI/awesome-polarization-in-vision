@@ -18,6 +18,8 @@ A curated set of papers along with code.
 
 
 ### [Polarization in 3D Computer Vision]()
+
+* __Spectral and Polarization Vision: Spectro-polarimetric Real-world Dataset__, (2024), CVPR, [[pdf]]([https://chenyanglei.github.io/](https://arxiv.org/abs/2311.17396)).
 * __Polarization Wavefront Lidars: Learning to Recover Large-Scale Scene Information from Polarized Wavefronts__, (2024), CVPR, [[pdf]](https://chenyanglei.github.io/).
 * __Robust Depth Enhancement via Polarization Prompt Fusion Tuning__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2404.04318).
 * __High-Res Facial Appearance Capture from Polarized Smartphone Images__, (2023), CVPR, [[pdf]](https://arxiv.org/pdf/2212.01160.pdf).
