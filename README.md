@@ -18,11 +18,12 @@ A curated set of papers along with code.
 
 
 ### [Polarization in 3D Computer Vision]()
-
-* __Spectral and Polarization Vision: Spectro-polarimetric Real-world Dataset__, (2024), CVPR, [[pdf]]([https://chenyanglei.github.io/](https://arxiv.org/abs/2311.17396)).
+* __Spectral and Polarization Vision: Spectro-polarimetric Real-world Dataset__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2311.17396)).
 * __Polarization Wavefront Lidars: Learning to Recover Large-Scale Scene Information from Polarized Wavefronts__, (2024), CVPR, [[pdf]](https://chenyanglei.github.io/).
 * __Robust Depth Enhancement via Polarization Prompt Fusion Tuning__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2404.04318).
 * __High-Res Facial Appearance Capture from Polarized Smartphone Images__, (2023), CVPR, [[pdf]](https://arxiv.org/pdf/2212.01160.pdf).
+* __Multi-view Spectral Polarization Propagation for Video Glass Segmentation__, (2023), ICCV, [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qiao_Multi-view_Spectral_Polarization_Propagation_for_Video_Glass_Segmentation_ICCV_2023_paper.pdf)).
+* __Polarimetric iToF: Measuring High-Fidelity Depth through Scattering Media__, (2023), CVPR, [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jeon_Polarimetric_iToF_Measuring_High-Fidelity_Depth_Through_Scattering_Media_CVPR_2023_paper.pdf)).
 * __Sparse ellipsometry: portable acquisition of polarimetric SVBRDF and shape with unstructured flash photography__, (2022), SIGGRAPH, [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3528223.3530075) [[code]](https://github.com/KAIST-VCLAB/SparseEllipsometry.git).
 * __Perspective Phase Angle Model for Polarimetric 3D Reconstruction__, (2022), ECCV, [[pdf]](https://arxiv.org/pdf/2207.09629v2).
 * __Shape from Polarization for Complex Scenes in the Wild__, (2022), CVPR, [code](https://github.com/ChenyangLEI/sfp-wild). 
@@ -107,6 +108,7 @@ A curated set of papers along with code.
 
 
 ## Lecture Videos 
+* [Polarization-Based Visual Computing]( https://dl.acm.org/doi/abs/10.1145/3587423.3595544)
 
 
 
