@@ -19,6 +19,8 @@ A curated set of papers along with code.
 
 ### [Polarization in 3D Computer Vision]()
 
+* __NeRSP: Neural 3D Reconstruction for Reflective Objects with Sparse Polarized Images__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2406.07111)[[code]](https://github.com/PRIS-CV/NeRSP).
+* __NeISF: Neural Incident Stokes Field for Geometry and Material Estimation__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2311.13187)[[code]](https://github.com/sony/NeISF).
 * __Spectral and Polarization Vision: Spectro-polarimetric Real-world Dataset__, (2024), CVPR, [[pdf]]([https://chenyanglei.github.io/](https://arxiv.org/abs/2311.17396)).
 * __Polarization Wavefront Lidars: Learning to Recover Large-Scale Scene Information from Polarized Wavefronts__, (2024), CVPR, [[pdf]](https://chenyanglei.github.io/).
 * __Robust Depth Enhancement via Polarization Prompt Fusion Tuning__, (2024), CVPR, [[pdf]](https://arxiv.org/abs/2404.04318).
