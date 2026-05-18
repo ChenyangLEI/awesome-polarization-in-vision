@@ -70,6 +70,7 @@ A curated set of papers along with code.
 * __Image dehazing using polarization effects of objects and airlight__, (2014)
 * __A physically-based approach to reflection separation: from physical modeling to constrained optimization__, (2013)
 * __Clear underwater vision__, (2004)
+* __PIDSR: Complementary Polarized Image Demosaicing and Super-Resolution__, (2025), CVPR.[[pdf]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhou_PIDSR_Complementary_Polarized_Image_Demosaicing_and_Super-Resolution_CVPR_2025_paper.pdf).
 
 ### [Polarization in Image Segmentation and Detection]()
 
